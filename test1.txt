@@ -1,12 +1,1 @@
- Datentr„ger in Laufwerk C: ist TI31263000A
- Volumeseriennummer: 20BF-43A4
-
- Verzeichnis von C:\Users\Alex\Desktop\GIT
-
-16.04.2020  18:23    <DIR>          .
-16.04.2020  18:23    <DIR>          ..
-16.04.2020  18:23                 0 test1.txt
-16.04.2020  16:51            24.635 Versionskontrolle mit Git und Visual Studio 2015 - LernMoment.de.html
-16.04.2020  16:51    <DIR>          Versionskontrolle mit Git und Visual Studio 2015 - LernMoment.de_files
-               2 Datei(en),         24.635 Bytes
-               3 Verzeichnis(se), 344.383.045.632 Bytes frei
+ Change 1
